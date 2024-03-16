@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @audra kasongo
 - 👀 I’m interested in desktop progamming and development web mobile,and game developper...
 - 🌱 I’m currently learning web development, game develloper and desktop ...
-- 💞️ I’m looking to collaborate on different projects, in web and desktop.
+- 💞️ I’m looking to collaborate on different projects, in web, mobile, game and desktop.
 - 📫 How to reach me  audrakasongo@gmail.com
 
 <!---
